@@ -1,6 +1,6 @@
-# 🧙‍♀️ Hogwarts-Themed Student Management Portal using Tkinter
+# 🧙‍♀️ Hogwarts-Themed Student Management System using Tkinter
 ## Description
-This system is a Hogwarts-themed student portal that allows the admin to view, search, add, and see all the information of the students.
+This system is a Hogwarts-themed student management system that allows the admin to view, search, add, and see all the information of the students.
 
 ## Features
 1. Login
