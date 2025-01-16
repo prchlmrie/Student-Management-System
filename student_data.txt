@@ -1,0 +1,4 @@
+Harry, 20, 2023-2-00001, harry@hogwarts.com, 123-456-789
+Hermoine, 19, 2023-2-00002, hermoine@hogwarts.com, 123-456-789
+Ron, 19, 2023-2-00003, ron@hogwarts.com, 123-456-789
+Draco, 19, 2023-2-00004, draco@hogwarts.com, 123-456-789
