@@ -1,4 +1,4 @@
-# 🧙‍♀️ Hogwarts Student Portal
+# 🧙‍♀️ Hogwarts Student Portal using Tkinter
 ## Description
 This system is a Hogwarts-themed student portal that allows the admin to view, search, add, and see all the information of the students.
 
@@ -36,12 +36,29 @@ This system is a Hogwarts-themed student portal that allows the admin to view, s
 ### student_data.txt
 - This file simply holds all of the students' information.
 
-## Designs
-- I chose a Hogwarts theme as I, myself, am a huge fan of Harry Potter. I initially planned to make it Ravenclaw-themed to showcase my own house; however, I felt like I'd be too limited with colors revolving around blue. I didn't like that, which led me to do Hogwarts instead. I named it the Marauder's Map, inspired by the Marauder Gryffindor boys.
+## Screenshots
+- **Login Frame**
 
-- I use 3 attempts for the login as it is usually a reasonable number of chances to give.
+![image](https://github.com/user-attachments/assets/234a8184-8a3d-4395-bbb2-dd32f4ca7f44)
 
-- The menu is put on the left side of the whole frame as it is easy to navigate in that way.
+- **Student Profile Frame**
+
+![image](https://github.com/user-attachments/assets/fe1d0d02-82c8-4581-9ca8-0b11af5e4cf0)
+
+- **Search Student Frame**
+  
+![image](https://github.com/user-attachments/assets/6c9fb31c-b602-46eb-8fd8-779bb4d53536)
+![image](https://github.com/user-attachments/assets/4697e57c-706c-4cd5-ab34-d1cbb95dcc6a)
+
+- **Register Student Frame**
+
+![image](https://github.com/user-attachments/assets/3795b825-5d95-4d24-8a16-197a5fed1ee7)
+
+- **All Students Frame**
+
+![image](https://github.com/user-attachments/assets/2e8b2c75-bdef-4ee7-a3b1-d6a2548a3b16)
+
+
 
 ## For Future Improvements
 - At some point, I would like to add a database for more security and implement more input validation. I have been working on this project for at least 3 months, starting from October 2023, and hope to improve it soon.
