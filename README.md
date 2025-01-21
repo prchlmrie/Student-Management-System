@@ -58,7 +58,3 @@ This system is a Hogwarts-themed student management system that allows the admin
 
 ![image](https://github.com/user-attachments/assets/2e8b2c75-bdef-4ee7-a3b1-d6a2548a3b16)
 
-
-
-## For Future Improvements
-- At some point, I would like to add a database for more security and implement more input validation. I have been working on this project for at least 3 months, starting from October 2023, and hope to improve it soon.
